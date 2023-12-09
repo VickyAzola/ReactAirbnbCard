@@ -1,0 +1,35 @@
+export default [
+    {   
+        id: 1,
+        img: 'image12.png',
+        alt: 'female swimmer',
+        stars: '5.0',
+        reviews: 6,
+        country: 'USA',
+        description: 'Life lessons with Katie Zaferes',
+        price: 136,
+        openSpots: 0,
+    },
+    {   
+        id: 2,
+        img: 'wedding-ph.png', 
+        alt: 'bride',
+        stars: '5.0',
+        reviews: 30,
+        country: 'USA',
+        description: 'Learn wedding photography',
+        price: 125,
+        openSpots: 27,
+    },
+    {   
+        id: 3,
+        img: 'mountain-bike.png',
+        alt: 'mountain bike',
+        stars: '4.8',
+        reviews: 2,
+        country: 'USA',
+        description: 'Group Mountain Biking',
+        price: 50,
+        openSpots: 3,
+    }
+]
